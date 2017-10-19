@@ -1,0 +1,115 @@
+*{
+  box-sizing: border-box;
+}
+
+div{
+
+
+  margin: 10px;
+  padding: 15px;
+
+
+  background-color:#A2BF89;
+
+}
+
+.garden{
+
+
+
+  border: 5px solid white;
+  padding:200px;
+
+}
+
+.arco1{
+
+
+
+  border: 5px solid  white;
+  width:95px;
+  height:260px;
+  left: 34px;
+  top: 100px;
+  position: absolute;
+
+
+}
+.arco2{
+
+
+
+  border: 5px solid  white;
+  width:95px;
+  height:260px;
+  right: 34px;
+  top: 100px;
+  position: absolute;
+
+
+}
+
+.circle{
+
+  width: 260px;
+  height: 260px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-color: #A2BF89;
+  border: 5px solid  white;
+
+  left:550px;
+  top: 100px;
+  position: absolute;
+
+
+}
+
+.ball1{
+
+  width: 10px;
+  height: 10px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-color: #e0e0e0;
+
+
+  left:110px;
+  top: 105px;
+  position: absolute;
+
+}
+
+.ball2{
+
+  width: 10px;
+  height: 10px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-color: #e0e0e0;
+
+
+  right:140px;
+  top: 305px;
+  position: absolute;
+
+
+}
+.ball3{
+
+  width: 10px;
+  height: 10px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-color: #e0e0e0;
+
+  left:700px;
+  top: 65px;
+  position: absolute;
+
+
+}
